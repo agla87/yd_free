@@ -9,7 +9,7 @@
 | **Original File** | `view_video.php` |
 | **Size** | .35 MB |
 | **Status** | **Complete (100%)** |
-| **Password Protected** | **NO** |
+| **Password Protected** | **YES** |
 
 ---
 
@@ -25,3 +25,4 @@
 
 1. **Open** `view_video.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
 2. **Extract** the file
+3. Enter the password when prompted
